@@ -1,6 +1,17 @@
-bin/ 
-obj/ 
-*.suo 
-bin/ 
+# Build results
+bin/
 obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE cache
 .vs/
+
+# Other temporary files
+*.log
+*.db
+*.opendb
